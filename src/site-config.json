@@ -1,0 +1,551 @@
+{
+  "business": {
+    "name": "Clear Cut Painting",
+    "phone": "+17192200560",
+    "category": "house painter",
+    "city": "Colorado Springs",
+    "state": "CO"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Colorado Springs Painting Experts",
+      "heroSubline": "Transforming homes with precision and care. Delivering lasting beauty and protection across the Pikes Peak region.",
+      "aboutTitle": "Trusted Painting Professionals in Colorado Springs",
+      "aboutText": [
+        "Clear Cut Painting started with a simple mission: to provide homeowners in Colorado Springs with exceptional painting services and unparalleled customer care. We're not just painters; we're craftsmen dedicated to enhancing the beauty and value of your home.",
+        "Our approach is built on clear communication, meticulous preparation, and unwavering attention to detail. We believe in doing the job right the first time, using premium materials and proven techniques to ensure a flawless, long-lasting finish. We treat every project as if it were our own home.",
+        "As a locally owned and operated business, we're deeply invested in the Colorado Springs community. We support local initiatives and take pride in contributing to the vibrant character of our city. We're committed to building lasting relationships with our clients and neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Skilled painters delivering meticulous results, every time."
+        },
+        {
+          "title": "Premium Materials",
+          "description": "Using only top-quality paints and supplies for lasting beauty and durability."
+        },
+        {
+          "title": "Clear Communication",
+          "description": "Keeping you informed throughout the entire painting process."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "Understanding the unique challenges of Colorado's climate and housing styles."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Get a free, no-obligation quote from Colorado Springs' trusted painting experts."
+    },
+    "services": [
+      {
+        "slug": "interior-painting",
+        "name": "Interior Painting",
+        "shortDescription": "Transform your living spaces with flawless interior painting services.",
+        "description": "Our interior painting services are designed to revitalize your home's interior, creating a fresh and inviting atmosphere. We handle everything from surface preparation to the final coat, ensuring a smooth, even finish that lasts. In Colorado Springs, we understand the importance of using paints that can withstand our dry climate and temperature fluctuations, preventing cracking and peeling. Whether you're looking to update a single room or repaint your entire home, we'll work closely with you to choose the perfect colors and finishes to match your style and preferences. We protect your furniture and belongings, and leave your home clean and tidy after the job is complete.\n\nWe specialize in painting walls, ceilings, trim, doors, and cabinets. We also offer specialized services such as drywall repair, wallpaper removal, and texture application. We use low-VOC paints to minimize odors and promote a healthy indoor environment. From historic homes in Old Colorado City to modern residences in Briargate, we have the experience and expertise to deliver exceptional results.",
+        "process": [
+          "Step 1: Consultation and Color Selection",
+          "Step 2: Surface Preparation (cleaning, sanding, priming)",
+          "Step 3: Careful Masking and Protection",
+          "Step 4: Application of Premium Paints",
+          "Step 5: Final Inspection and Cleanup"
+        ],
+        "benefits": [
+          "Enhance the beauty and value of your home",
+          "Create a fresh and inviting living space",
+          "Protect your walls from wear and tear",
+          "Improve indoor air quality with low-VOC paints"
+        ],
+        "faq": [
+          {
+            "question": "How long does interior painting typically take?",
+            "answer": "The duration of an interior painting project depends on the size and complexity of the job. A single room may take 1-2 days, while an entire house could take a week or more. We'll provide you with a detailed timeline during the consultation."
+          },
+          {
+            "question": "Do I need to move my furniture before you start painting?",
+            "answer": "We ask that you remove any small or fragile items from the room. We will carefully move and cover larger furniture to protect it from paint splatters. We take full responsibility for the safety of your belongings."
+          },
+          {
+            "question": "What type of paint do you use?",
+            "answer": "We use only premium-quality paints from trusted brands like Sherwin-Williams and Benjamin Moore. We can help you choose the right type of paint for each room, considering factors like durability, washability, and sheen."
+          }
+        ]
+      },
+      {
+        "slug": "exterior-painting",
+        "name": "Exterior Painting",
+        "shortDescription": "Protect and beautify your home's exterior with our expert painting services.",
+        "description": "Colorado Springs' climate can be tough on exterior paint, with harsh sun, hail, and fluctuating temperatures. Our exterior painting services are designed to withstand these challenges, providing long-lasting protection and enhancing your home's curb appeal. We use high-quality paints specifically formulated for outdoor use, ensuring superior adhesion, weather resistance, and color retention. We meticulously prepare surfaces by power washing, scraping, and priming to create a solid foundation for the new paint. We handle everything from siding and trim to doors and fences.\n\nOur team is experienced in painting a variety of exterior surfaces, including wood, stucco, vinyl, and metal. We understand the unique needs of different housing styles in Colorado Springs, from the historic homes in the Old North End to the newer developments in Northgate. We pay close attention to detail, ensuring crisp lines and a flawless finish. We also offer color consultation services to help you choose the perfect palette to complement your home's architecture and surroundings. We can handle hail damage repairs, wood replacements, and specialized coatings. We are fully licensed and insured, and we take pride in our workmanship.",
+        "process": [
+          "Step 1: Thorough Power Washing",
+          "Step 2: Scraping and Sanding Loose Paint",
+          "Step 3: Repairing Damaged Surfaces",
+          "Step 4: Priming for Optimal Adhesion",
+          "Step 5: Application of Weather-Resistant Paints"
+        ],
+        "benefits": [
+          "Protect your home from the elements",
+          "Enhance curb appeal and property value",
+          "Prevent costly repairs due to weather damage",
+          "Extend the life of your siding and trim"
+        ],
+        "faq": [
+          {
+            "question": "How often should I repaint my home's exterior?",
+            "answer": "In Colorado Springs, most homes need to be repainted every 5-7 years, depending on the type of siding and the severity of the weather exposure. Regular maintenance, such as power washing, can help extend the life of your paint job."
+          },
+          {
+            "question": "What time of year is best for exterior painting?",
+            "answer": "The best time for exterior painting in Colorado Springs is typically during the late spring, summer, and early fall months, when temperatures are mild and there is less chance of rain or snow. We avoid painting during extreme heat or cold."
+          },
+          {
+            "question": "Do you offer a warranty on your exterior painting services?",
+            "answer": "Yes, we offer a comprehensive warranty on our exterior painting services, covering both labor and materials. The length of the warranty depends on the type of paint used and the specific conditions of the project."
+          }
+        ]
+      },
+      {
+        "slug": "cabinet-painting",
+        "name": "Cabinet Painting",
+        "shortDescription": "Give your kitchen or bathroom a fresh new look with professional cabinet painting.",
+        "description": "Transform your kitchen or bathroom without the expense of replacing your cabinets. Our cabinet painting services offer a cost-effective way to update your space and create a modern, stylish look. We meticulously prepare your cabinets by cleaning, sanding, and priming to ensure a smooth, durable finish. We use high-quality paints specifically designed for cabinets, providing superior adhesion and resistance to chipping and scratching. We can paint your cabinets any color you desire, and we offer a variety of finishes, from matte to gloss.\n\nWe remove all hardware and doors before painting, and we spray-apply the paint for a flawless, factory-like finish. We pay close attention to detail, ensuring even coverage and crisp lines. We also offer cabinet refinishing services for cabinets with damaged or worn finishes. From older homes in Broadmoor to updated spaces in newer areas, we have the skills to handle any cabinet painting project. We can also install new hardware to complete the transformation. We work efficiently to minimize disruption to your daily routine.",
+        "process": [
+          "Step 1: Thorough Cleaning and Degreasing",
+          "Step 2: Sanding and Priming for Adhesion",
+          "Step 3: Spray Application of Durable Paint",
+          "Step 4: Reinstallation of Hardware and Doors"
+        ],
+        "benefits": [
+          "Update your kitchen or bathroom at a fraction of the cost of replacing cabinets",
+          "Create a modern and stylish look",
+          "Increase the value of your home",
+          "Extend the life of your cabinets"
+        ],
+        "faq": [
+          {
+            "question": "Can you paint laminate cabinets?",
+            "answer": "Yes, we can paint laminate cabinets, but it requires careful preparation and the use of specialized primers and paints. We have extensive experience painting laminate cabinets and can achieve excellent results."
+          },
+          {
+            "question": "How long does cabinet painting typically take?",
+            "answer": "Cabinet painting typically takes 3-5 days, depending on the size of the kitchen or bathroom and the complexity of the project. We will provide you with a detailed timeline during the consultation."
+          },
+          {
+            "question": "Do I need to empty my cabinets before you start painting?",
+            "answer": "Yes, we ask that you empty your cabinets before we start painting. We will carefully remove the doors and drawers and transport them to our workshop for painting."
+          }
+        ]
+      },
+      {
+        "slug": "drywall-repair",
+        "name": "Drywall Repair",
+        "shortDescription": "Restore your walls to their original condition with our professional drywall repair services.",
+        "description": "From small dents and holes to larger damage caused by water or impact, our drywall repair services can restore your walls to their original condition. We carefully assess the damage and use the appropriate techniques and materials to ensure a seamless repair. We handle everything from patching and taping to sanding and texturing, creating a smooth, even surface that is ready for painting. We understand the importance of matching the existing texture of your walls, and we have the skills and experience to achieve a perfect match.\n\nWe also offer drywall installation services for new construction and remodeling projects. We use high-quality drywall and professional techniques to ensure a strong, durable, and aesthetically pleasing result. We are experienced in repairing drywall in a variety of settings, from residential homes to commercial buildings. We take pride in our attention to detail and our commitment to customer satisfaction. We serve all neighborhoods in Colorado Springs, from the historic districts to the newer suburbs.",
+        "process": [
+          "Step 1: Assessment of Damage",
+          "Step 2: Cutting and Replacing Damaged Drywall",
+          "Step 3: Taping and Mudding Seams",
+          "Step 4: Sanding and Texturing",
+          "Step 5: Priming and Painting"
+        ],
+        "benefits": [
+          "Restore your walls to their original condition",
+          "Prevent further damage from water or pests",
+          "Improve the appearance of your home",
+          "Increase the value of your property"
+        ],
+        "faq": [
+          {
+            "question": "How much does drywall repair cost?",
+            "answer": "The cost of drywall repair depends on the size and complexity of the damage. We offer free estimates and will provide you with a detailed breakdown of the costs involved."
+          },
+          {
+            "question": "Can you match the existing texture of my walls?",
+            "answer": "Yes, we are experienced in matching a variety of drywall textures, including orange peel, knockdown, and smooth. We will carefully analyze the texture of your walls and use the appropriate techniques and materials to achieve a perfect match."
+          },
+          {
+            "question": "How long does drywall repair take?",
+            "answer": "The duration of drywall repair depends on the size and complexity of the damage. Small repairs may take only a few hours, while larger repairs could take a day or two."
+          }
+        ]
+      },
+      {
+        "slug": "deck-staining",
+        "name": "Deck Staining",
+        "shortDescription": "Protect and beautify your deck with our professional staining services.",
+        "description": "Colorado Springs' harsh weather can take a toll on your deck, causing it to fade, crack, and splinter. Our deck staining services protect your deck from the elements, extending its life and enhancing its natural beauty. We carefully prepare your deck by cleaning, sanding, and repairing any damaged boards. We use high-quality stains that are specifically formulated for outdoor use, providing superior water resistance, UV protection, and mildew resistance.\n\nWe offer a variety of stain colors and finishes to match your style and preferences. We can also help you choose the right type of stain for your deck's wood type. We apply the stain evenly and carefully, ensuring a consistent and long-lasting finish. We also offer deck sealing services to further protect your deck from the elements. We are experienced in staining decks of all sizes and shapes, from small patios to large multi-level decks. We take pride in our workmanship and our commitment to customer satisfaction.",
+        "process": [
+          "Step 1: Thorough Cleaning and Sanding",
+          "Step 2: Repairing Damaged Boards",
+          "Step 3: Application of High-Quality Stain",
+          "Step 4: Sealing for Added Protection"
+        ],
+        "benefits": [
+          "Protect your deck from the elements",
+          "Extend the life of your deck",
+          "Enhance the natural beauty of your wood",
+          "Prevent cracking, splintering, and fading"
+        ],
+        "faq": [
+          {
+            "question": "How often should I stain my deck?",
+            "answer": "In Colorado Springs, most decks need to be stained every 2-3 years, depending on the type of stain used and the severity of the weather exposure. Regular cleaning can help extend the life of your stain job."
+          },
+          {
+            "question": "What type of stain is best for my deck?",
+            "answer": "The best type of stain for your deck depends on the type of wood used and your desired look. We can help you choose the right stain for your deck, considering factors like water resistance, UV protection, and color retention."
+          },
+          {
+            "question": "Do I need to clean my deck before you stain it?",
+            "answer": "Yes, it is essential to clean your deck thoroughly before staining it. We will power wash your deck to remove dirt, mildew, and old stain."
+          }
+        ]
+      },
+      {
+        "slug": "fence-staining",
+        "name": "Fence Staining",
+        "shortDescription": "Protect and beautify your fence with our professional staining services.",
+        "description": "A well-maintained fence enhances your property's curb appeal and provides privacy and security. Our fence staining services protect your fence from the elements, extending its life and enhancing its natural beauty. We carefully prepare your fence by cleaning, sanding, and repairing any damaged boards. We use high-quality stains that are specifically formulated for outdoor use, providing superior water resistance, UV protection, and mildew resistance.\n\nWe offer a variety of stain colors and finishes to match your style and preferences. We can also help you choose the right type of stain for your fence's wood type. We apply the stain evenly and carefully, ensuring a consistent and long-lasting finish. We also offer fence sealing services to further protect your fence from the elements. We are experienced in staining fences of all sizes and styles, from picket fences to privacy fences. We take pride in our workmanship and our commitment to customer satisfaction.",
+        "process": [
+          "Step 1: Thorough Cleaning and Sanding",
+          "Step 2: Repairing Damaged Boards",
+          "Step 3: Application of High-Quality Stain",
+          "Step 4: Sealing for Added Protection"
+        ],
+        "benefits": [
+          "Protect your fence from the elements",
+          "Extend the life of your fence",
+          "Enhance the natural beauty of your wood",
+          "Prevent warping, cracking, and fading"
+        ],
+        "faq": [
+          {
+            "question": "How often should I stain my fence?",
+            "answer": "In Colorado Springs, most fences need to be stained every 2-3 years, depending on the type of stain used and the severity of the weather exposure. Regular cleaning can help extend the life of your stain job."
+          },
+          {
+            "question": "What type of stain is best for my fence?",
+            "answer": "The best type of stain for your fence depends on the type of wood used and your desired look. We can help you choose the right stain for your fence, considering factors like water resistance, UV protection, and color retention."
+          },
+          {
+            "question": "Do I need to clean my fence before you stain it?",
+            "answer": "Yes, it is essential to clean your fence thoroughly before staining it. We will power wash your fence to remove dirt, mildew, and old stain."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Colorado Springs",
+        "slug": "colorado-springs-co",
+        "state": "CO",
+        "content": "Clear Cut Painting is proud to offer our professional painting services to the residents and businesses of Colorado Springs. From the historic Old North End to the growing Briargate area, we've helped countless homeowners and businesses enhance their properties with fresh, vibrant coats of paint. We understand the unique climate challenges of the Front Range and use only the highest quality paints and materials to ensure a long-lasting and beautiful finish.\n\nOur team of experienced painters is committed to providing exceptional service and meticulous attention to detail. Whether you need interior painting, exterior painting, or specialty finishes, we're here to transform your vision into reality. We are fully licensed and insured, and we stand behind our work with a satisfaction guarantee. Let Clear Cut Painting bring color and life to your Colorado Springs property.\n\nWe are experienced with working in a variety of homes, from historic homes to modern builds. We pride ourselves on our communication and our ability to work with our customers to achieve the perfect look for their home.",
+        "localContext": "Colorado Springs is a vibrant city known for its stunning natural beauty, from Pikes Peak to Garden of the Gods, offering a unique blend of outdoor adventure and urban amenities. Clear Cut Painting understands the local aesthetic and provides painting services that complement the city's character.",
+        "nearbyAreas": [
+          "Manitou Springs",
+          "Fountain",
+          "Monument"
+        ]
+      },
+      {
+        "city": "Manitou Springs",
+        "slug": "manitou-springs-co",
+        "state": "CO",
+        "content": "Clear Cut Painting extends its expert painting services to the charming town of Manitou Springs. Known for its historic architecture and natural mineral springs, Manitou Springs presents unique challenges and opportunities for painters. We have experience working with the diverse range of homes and businesses in the area.\n\nOur team understands the importance of preserving the character of Manitou Springs while providing modern, durable painting solutions. We are committed to using eco-friendly paints and practices whenever possible, minimizing our impact on the environment. Whether you need to refresh your historic home or update your commercial space, Clear Cut Painting is here to help.\n\nWe understand the importance of detail and quality when working in older, historic homes. Our team is experienced in working with a variety of surfaces and materials.",
+        "localContext": "Manitou Springs is a historic mountain town known for its eclectic shops, art galleries, and natural mineral springs, creating a unique and vibrant atmosphere. Clear Cut Painting provides painting services that enhance the town's historic charm and natural beauty.",
+        "nearbyAreas": [
+          "Colorado Springs",
+          "Cascade",
+          "Green Mountain Falls"
+        ]
+      },
+      {
+        "city": "Fountain",
+        "slug": "fountain-co",
+        "state": "CO",
+        "content": "Clear Cut Painting is proud to serve the growing community of Fountain, Colorado. As Fountain continues to develop, we are committed to providing high-quality painting services to homeowners and businesses alike. We understand the needs of Fountain residents and offer a wide range of painting solutions to fit any budget.\n\nOur team of experienced painters is dedicated to providing exceptional service and meticulous attention to detail. Whether you need interior painting, exterior painting, or specialty finishes, we're here to transform your vision into reality. We are fully licensed and insured, and we stand behind our work with a satisfaction guarantee.\n\nWe are skilled at working with newer construction and helping homeowners personalize their spaces. We are also experienced in working with HOAs to ensure that our work meets all community standards.",
+        "localContext": "Fountain is a rapidly growing community known for its family-friendly atmosphere and convenient location near Colorado Springs. Clear Cut Painting provides painting services that enhance the quality of life for Fountain residents.",
+        "nearbyAreas": [
+          "Colorado Springs",
+          "Security-Widefield",
+          "Peyton"
+        ]
+      },
+      {
+        "city": "Monument",
+        "slug": "monument-co",
+        "state": "CO",
+        "content": "Clear Cut Painting provides top-notch painting services to the beautiful town of Monument, Colorado. Known for its stunning views of the Rocky Mountains and its close-knit community, Monument offers a unique blend of small-town charm and modern amenities. We are familiar with the neighborhoods in Monument.\n\nOur team is committed to providing exceptional service and meticulous attention to detail. We use only the highest quality paints and materials to ensure a long-lasting and beautiful finish. Whether you need interior painting, exterior painting, or specialty finishes, we're here to transform your vision into reality. Let Clear Cut Painting enhance the beauty of your Monument property.\n\nWe are experienced in working with a variety of housing styles, from custom homes to production builds. We are dedicated to providing our customers with the best possible service and results.",
+        "localContext": "Monument is a picturesque town known for its stunning mountain views and family-friendly atmosphere. Clear Cut Painting provides painting services that complement the town's natural beauty and community spirit.",
+        "nearbyAreas": [
+          "Colorado Springs",
+          "Palmer Lake",
+          "Woodmoor"
+        ]
+      },
+      {
+        "city": "Security-Widefield",
+        "slug": "security-widefield-co",
+        "state": "CO",
+        "content": "Clear Cut Painting is pleased to offer our professional painting services to the residents and businesses of Security-Widefield. As a close-knit community with a strong sense of pride, Security-Widefield deserves the best in painting services. We're committed to delivering exceptional results.\n\nOur team of experienced painters is dedicated to providing meticulous attention to detail and using only the highest quality paints and materials. Whether you need interior painting, exterior painting, or specialty finishes, we're here to transform your vision into reality. We are fully licensed and insured, and we stand behind our work with a satisfaction guarantee.\n\nWe understand the importance of communication and customer satisfaction. We work closely with our clients to ensure that their needs are met and that they are completely satisfied with our work.",
+        "localContext": "Security-Widefield is a welcoming community known for its strong sense of community and convenient location near Colorado Springs. Clear Cut Painting provides painting services that enhance the quality of life for Security-Widefield residents.",
+        "nearbyAreas": [
+          "Fountain",
+          "Colorado Springs",
+          "Stratmoor"
+        ]
+      },
+      {
+        "city": "Palmer Lake",
+        "slug": "palmer-lake-co",
+        "state": "CO",
+        "content": "Clear Cut Painting is proud to serve the residents and businesses of Palmer Lake, Colorado. This scenic town, nestled in the foothills of the Rocky Mountains, deserves the best in painting services. We are committed to providing high-quality workmanship and exceptional customer service.\n\nOur team of experienced painters is dedicated to providing meticulous attention to detail and using only the highest quality paints and materials. Whether you need interior painting, exterior painting, or specialty finishes, we're here to transform your vision into reality. We are fully licensed and insured, and we stand behind our work with a satisfaction guarantee.\n\nWe understand the unique challenges of painting in a mountain environment and are equipped to handle any project, big or small. We are committed to preserving the beauty of Palmer Lake through our painting services.",
+        "localContext": "Palmer Lake is a charming mountain town known for its stunning natural beauty and outdoor recreation opportunities. Clear Cut Painting provides painting services that complement the town's scenic surroundings and enhance the quality of life for its residents.",
+        "nearbyAreas": [
+          "Monument",
+          "Woodmoor",
+          "Colorado Springs"
+        ]
+      },
+      {
+        "city": "Woodmoor",
+        "slug": "woodmoor-co",
+        "state": "CO",
+        "content": "Clear Cut Painting is dedicated to providing exceptional painting services to the residents of Woodmoor, CO. As a beautiful and upscale community, Woodmoor deserves the best in painting services. Our team is committed to exceeding your expectations.\n\nWe understand the importance of quality and attention to detail when it comes to painting your home. We use only the highest quality paints and materials to ensure a long-lasting and beautiful finish. Whether you need interior painting, exterior painting, or specialty finishes, we're here to transform your vision into reality. We are fully licensed and insured, and we stand behind our work with a satisfaction guarantee.\n\nWe are experienced in working with a variety of architectural styles and are committed to providing our clients with the best possible service and results. We are also happy to provide color consultations to help you choose the perfect palette for your home.",
+        "localContext": "Woodmoor is a prestigious community known for its beautiful homes and well-maintained landscapes. Clear Cut Painting provides painting services that enhance the beauty and value of Woodmoor properties.",
+        "nearbyAreas": [
+          "Monument",
+          "Palmer Lake",
+          "Colorado Springs"
+        ]
+      },
+      {
+        "city": "Stratmoor",
+        "slug": "stratmoor-co",
+        "state": "CO",
+        "content": "Clear Cut Painting is excited to offer our professional painting services to the community of Stratmoor, Colorado. We understand the importance of quality and affordability, and we strive to provide both to our customers. Stratmoor is a wonderful place to live, and we're happy to help residents keep their homes looking their best.\n\nOur team is experienced in handling a variety of painting projects, from small touch-ups to full-scale interior and exterior jobs. We use high-quality paints and materials to ensure a long-lasting and beautiful finish. We're also committed to providing excellent customer service, from the initial consultation to the final walk-through. We are fully licensed and insured, and we stand behind our work with a satisfaction guarantee.\n\nWe are experienced in working with a variety of housing styles and are committed to providing our clients with the best possible service and results. We are also happy to provide color consultations to help you choose the perfect palette for your home.",
+        "localContext": "Stratmoor is a vibrant neighborhood near Colorado Springs known for its community spirit and convenient access to amenities. Clear Cut Painting offers painting services that enhance the beauty and value of homes in Stratmoor.",
+        "nearbyAreas": [
+          "Security-Widefield",
+          "Colorado Springs",
+          "Fort Carson"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Interior Painting",
+        "text": "Clear Cut Painting did an amazing job painting the interior of our home! They were professional, efficient, and the quality of their work was outstanding. We especially appreciated their attention to detail and how they protected our furniture. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "John B.",
+        "rating": 5,
+        "service": "Exterior Painting",
+        "text": "We hired Clear Cut Painting to paint the exterior of our house, and we couldn't be happier with the results. They did a fantastic job prepping the surfaces and the paint job looks flawless. Our house looks brand new! Their crew was courteous and professional throughout the entire project.",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Emily K.",
+        "rating": 4,
+        "service": "Cabinet Painting",
+        "text": "Clear Cut Painting transformed our outdated kitchen cabinets with a fresh coat of paint. The process was smooth, and the end result is beautiful. There was a minor delay, but they communicated clearly and made sure we were satisfied with the final product.",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "David L.",
+        "rating": 5,
+        "service": "Drywall Repair",
+        "text": "I had a large hole in my drywall from a plumbing repair, and Clear Cut Painting fixed it perfectly. You can't even tell there was ever any damage. They were prompt, professional, and their prices were very reasonable. I would definitely use them again!",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Jessica P.",
+        "rating": 5,
+        "service": "Deck Staining",
+        "text": "Clear Cut Painting did an excellent job staining our deck. They power washed it, sanded it, and applied a beautiful stain that will protect it for years to come. Our deck looks amazing, and we're so happy with the results!",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Robert S.",
+        "rating": 4,
+        "service": "Fence Staining",
+        "text": "We hired Clear Cut Painting to stain our fence, and they did a solid job. The fence looks much better and is now protected from the elements. There were a couple of minor imperfections, but they addressed them quickly and professionally.",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Clear Cut Painting | Colorado Springs Painters",
+        "description": "Top-rated painting services in Colorado Springs. Interior, exterior, cabinets, drywall repair, and more. Free quotes!"
+      },
+      "about": {
+        "title": "About Clear Cut Painting | Colorado Springs, CO",
+        "description": "Learn about Clear Cut Painting's commitment to quality and customer satisfaction in Colorado Springs. Local painting experts."
+      },
+      "services": {
+        "title": "Painting Services | Colorado Springs, CO",
+        "description": "Comprehensive painting services in Colorado Springs: interior, exterior, cabinet painting, and more. Get a free quote today!"
+      },
+      "contact": {
+        "title": "Contact Clear Cut Painting | Colorado Springs, CO",
+        "description": "Contact Clear Cut Painting for a free quote on your next painting project in Colorado Springs. Call us today!"
+      },
+      "reviews": {
+        "title": "Clear Cut Painting Reviews | Colorado Springs, CO",
+        "description": "Read reviews from satisfied Clear Cut Painting customers in Colorado Springs. See why we're the trusted choice for painting."
+      },
+      "service-areas": {
+        "title": "Service Areas | Clear Cut Painting CO",
+        "description": "Clear Cut Painting serves Colorado Springs and surrounding areas. Check our service area coverage for your painting needs."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "interior-painting": "/images/service-interior-painting.webp",
+      "exterior-painting": "/images/service-exterior-painting.webp",
+      "cabinet-painting": "/images/service-cabinet-painting.webp",
+      "drywall-repair": "/images/service-drywall-repair.webp",
+      "deck-staining": "/images/service-deck-staining.webp",
+      "fence-staining": "/images/service-fence-staining.webp"
+    },
+    "servicesResponsive": {
+      "interior-painting": {
+        "src": "/images/service-interior-painting.webp",
+        "srcset": "/images/service-interior-painting-400w.webp 400w, /images/service-interior-painting-800w.webp 800w, /images/service-interior-painting-1200w.webp 1200w, /images/service-interior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "exterior-painting": {
+        "src": "/images/service-exterior-painting.webp",
+        "srcset": "/images/service-exterior-painting-400w.webp 400w, /images/service-exterior-painting-800w.webp 800w, /images/service-exterior-painting-1200w.webp 1200w, /images/service-exterior-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "cabinet-painting": {
+        "src": "/images/service-cabinet-painting.webp",
+        "srcset": "/images/service-cabinet-painting-400w.webp 400w, /images/service-cabinet-painting-800w.webp 800w, /images/service-cabinet-painting-1200w.webp 1200w, /images/service-cabinet-painting.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "drywall-repair": {
+        "src": "/images/service-drywall-repair.webp",
+        "srcset": "/images/service-drywall-repair-400w.webp 400w, /images/service-drywall-repair-800w.webp 800w, /images/service-drywall-repair-1200w.webp 1200w, /images/service-drywall-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "deck-staining": {
+        "src": "/images/service-deck-staining.webp",
+        "srcset": "/images/service-deck-staining-400w.webp 400w, /images/service-deck-staining-800w.webp 800w, /images/service-deck-staining-1200w.webp 1200w, /images/service-deck-staining.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fence-staining": {
+        "src": "/images/service-fence-staining.webp",
+        "srcset": "/images/service-fence-staining-400w.webp 400w, /images/service-fence-staining-800w.webp 800w, /images/service-fence-staining-1200w.webp 1200w, /images/service-fence-staining.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
